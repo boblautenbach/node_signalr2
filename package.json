@@ -1,0 +1,17 @@
+{
+  "name": "piserver",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.x.x",
+    "bluebird": "3.x.x",
+    "request": "2.x.x",
+    "body-parser": "1.x.x",
+    "signalr-client": "0.0.x",
+    "util" : "0.x.x",
+    "winston":"2.2.x"
+  },
+   "engine": "node >= 0.12.7"
+}
